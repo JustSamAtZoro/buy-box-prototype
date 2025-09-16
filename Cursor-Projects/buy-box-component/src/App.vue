@@ -12,7 +12,7 @@
               <h2 class="text-h5 mb-4">Components</h2>
               
               <!-- Title and Summary Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-2">Title and Summary</h3>
                 <v-card class="pa-4" outlined>
                   <TitleAndSummary
@@ -28,7 +28,7 @@
               </div>
 
               <!-- Pricing Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-4">Pricing Component</h3>
                 
                 <!-- Default Pricing -->
@@ -103,7 +103,7 @@
               </div>
 
               <!-- Promo Restriction Messaging Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-4">Promo Restriction Messaging</h3>
                 
                 <!-- Default Message -->
@@ -127,7 +127,7 @@
               </div>
 
               <!-- Add to Cart Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-4">Add to Cart</h3>
                 
                 <!-- In Stock -->
@@ -161,7 +161,7 @@
               </div>
 
               <!-- Delivery Box Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-4">Delivery Box</h3>
                 
                 <!-- Default Delivery -->
@@ -188,7 +188,7 @@
               </div>
 
               <!-- Shipping Details Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-4">Shipping Details</h3>
                 
                 <!-- Default Shipping Details -->
@@ -217,7 +217,7 @@
               </div>
 
               <!-- Key Features Component -->
-              <div class="mb-8">
+              <div class="mb-12">
                 <h3 class="text-h6 mb-4">Key Features</h3>
                 
                 <!-- Default Features -->

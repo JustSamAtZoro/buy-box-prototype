@@ -1,5 +1,5 @@
 <template>
-  <div class="buy-box">
+  <div class="buy-box sticky">
     <!-- 1. Title and Summary -->
     <div class="component-wrapper">
       <TitleAndSummary
@@ -280,6 +280,12 @@ const handleTooltipClick = (tooltipText) => {
   max-width: 100%;
 }
 
+.sticy {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
 /* Full width wrapper for HR and Key Features */
 .full-width-wrapper {
   width: 100%;
@@ -311,6 +317,10 @@ const handleTooltipClick = (tooltipText) => {
 @media (max-width: 768px) {
   .buy-box {
     padding: 12px;
+  }
+
+  .sticky {
+    position: relative;
   }
 }
 </style>
