@@ -9,4 +9,5 @@ export default defineConfig({
       autoImport: true,
     }),
   ],
+  base: '/',
 })
