@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd Cursor-Projects/buy-box-component && npm run build",
+  "outputDirectory": "Cursor-Projects/buy-box-component/dist",
+  "installCommand": "cd Cursor-Projects/buy-box-component && npm install"
+}
